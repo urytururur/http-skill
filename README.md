@@ -17,3 +17,5 @@ Http
 ## Tags
 #Http
 
+## import requests
+## requests.put('http://192.168.0.101/api/AmE3DbmI-V6GpnsBHqdG-g5NG7Xiz1AvUh8iMVt7/lights/12/state', data="{\"on\":true}")
